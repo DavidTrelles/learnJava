@@ -16,3 +16,13 @@ public class Creator{
         //that should print the variable to the console
     }
 }
+//to declasre a variable type, you simply put it before the 
+//variable decleration - boolean for boolean, int for integer
+//and double for a special type of integer, either a decimal
+//or a very large or small number
+public class Booleans {
+	public static void main(String[] args) {    
+    boolean intsCanHoldDecimals = false;
+    System.out.println(intsCanHoldDecimals);
+	}
+}
