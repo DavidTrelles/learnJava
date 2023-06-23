@@ -26,3 +26,7 @@ public class Booleans {
     System.out.println(intsCanHoldDecimals);
 	}
 }
+//today went through various datatypes - Java will not compile
+//remember to use javac command - if you declare a variable incorrectly
+//it's important to use specific naming conventions, and camelCasing - 
+//variables names must start with $,_or letter, other names will not compile and are illegal
